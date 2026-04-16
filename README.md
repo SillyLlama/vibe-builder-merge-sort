@@ -16,7 +16,7 @@ Merge Sort is ideal for this project because it:
 #### Demo
 ![App Screenshot 1](Huggingspace1.png)
 ![App Screenshot 2](Huggingspace2.png)
-
+![App Screenshot 2](Huggingspace3.png)
 
 ### Problem Breakdown & Computational Thinking (include a flowchart + the 4 pillars as brief bullets) 
 ![Flowchart](Flowchart.png)
