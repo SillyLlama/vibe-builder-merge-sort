@@ -14,7 +14,8 @@ Merge Sort is ideal for this project because it:
 - Has a clear plan of dividing → conquering → combining.
 
 #### Demo
-
+![App Screenshot 1](Huggingspace1.png)
+![App Screenshot 2](Huggingspace2.png)
 
 
 ### Problem Breakdown & Computational Thinking (include a flowchart + the 4 pillars as brief bullets) 
@@ -79,7 +80,8 @@ python app.py
 
 
 ### Hugging Face Link 
-
+You can access the live, interactive version of the app here:
+[Click here to view the App on Hugging Face Space](https://huggingface.co/spaces/SillyLIama/playlist-vibe-builder)
 
 ### Testing (what you tried + edge cases) 
 
