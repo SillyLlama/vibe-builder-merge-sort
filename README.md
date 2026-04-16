@@ -14,9 +14,9 @@ Merge Sort is ideal for this project because it:
 - Has a clear plan of dividing → conquering → combining.
 
 #### Demo
-![App Screenshot 1](Huggingspace1.png)
-![App Screenshot 2](Huggingspace2.png)
-![App Screenshot 2](Huggingspace3.png)
+![App Screenshot 1](Screenshots/Huggingspace1.png)
+![App Screenshot 2](Screenshots/Huggingspace2.png)
+![App Screenshot 3](Screenshots/Huggingspace3.png)
 
 ### Problem Breakdown & Computational Thinking (include a flowchart + the 4 pillars as brief bullets) 
 ![Flowchart](Flowchart.png)
