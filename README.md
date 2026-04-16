@@ -18,6 +18,7 @@ Merge Sort is ideal for this project because it:
 
 
 ### Problem Breakdown & Computational Thinking (include a flowchart + the 4 pillars as brief bullets) 
+![Flowchart](Flowchart.png)
 
 Decomposition
 
