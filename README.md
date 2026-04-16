@@ -81,7 +81,7 @@ python app.py
 
 ### Hugging Face Link 
 You can access the live, interactive version of the app here:
-[Click here to view the App on Hugging Face Space](https://huggingface.co/spaces/SillyLIama/playlist-vibe-builder)
+[Hugging Space](https://huggingface.co/spaces/SillyLIama/playlist-vibe-builder)
 
 ### Testing (what you tried + edge cases) 
 
