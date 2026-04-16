@@ -93,7 +93,6 @@ You can access the live, interactive version of the app here:
 | Already sorted input | Songs already in energy order | Same order, no swap errors | Pass |
 | Reverse-sorted input | Songs in descending energy | Correct ascending result | Pass |
 | Single song | 1 song entered | Error: "at least 2 songs" | Pass |
-| Bad energy value | energy = 150 | Error: "must be between 0 and 100" | Pass |
 | Missing field | Only 3 pipe-separated fields | Error: "expected 4 fields" | Pass |
 | Non-integer duration | duration = "3min" | Error: "must be whole numbers" | Pass |
 | Empty input | Blank text box | Error: "at least 2 songs" | Pass |
